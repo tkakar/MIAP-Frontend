@@ -1,10 +1,12 @@
-# DIVA Web Application
+# DIVA: Exploration and Validation of Hypothesized Drug-Drug Interactions.
+
+This is a web-based application to analyze drug-drug interaction (DDI) signals extracted from [FAERS] (https://www.fda.gov/drugs/surveillance/questions-and-answers-fdas-adverse-event-reporting-system-faers) data using association rule mining. The three views are designed based on the workflow of FDA drug-safety evaluators and allow analysts screen, triage and investigate hypthesized machine-generated DDI signals.
+
+For more details on the design of DIVA please read the [paper](/DIVA.pdf)
 
 ![DIVA Interface](resources/images/interface.png)
 [DEMO](http://diva.wpi.edu:3000/)
 
-
-## DIVA: Web Application for visualizing Drug Interactions
 
 ### Install dependencies for client and server application
 
